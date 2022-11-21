@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pbouamriou
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning lot of things
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Rust
+
 
 My CVs : https://github.com/pbouamriou/cv
 
