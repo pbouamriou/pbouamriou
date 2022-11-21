@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pbouamriou
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Philippe Bouamriou
+- 👀 I’m interested in coding (Embedded Software)
 - 🌱 I’m currently learning Rust
 
 
